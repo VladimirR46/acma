@@ -45,4 +45,4 @@ The full sweep takes on the order of an hour on a modern laptop CPU; the hyperpa
 
 ## License and data attribution
 
-The Andersson and Lund2013/EyeLink datasets are redistributed under their original licenses; please cite the original publications when using them. The synthetic dataset and all code in this repository are released under the MIT license upon de-anonymization.
+The Andersson and EyeLink datasets are redistributed under their original licenses; please cite the original publications when using them. The synthetic dataset and all code in this repository are released under the MIT license upon de-anonymization.
