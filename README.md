@@ -1,6 +1,8 @@
-# ACMA: Anonymous code release
+# ACMA: Delay-Augmented Clustering and Model Approximation
 
-This repository accompanies an anonymous NeurIPS 2026 submission. It contains the implementation of the proposed event detector (ACMA), the benchmarking pipeline against several baselines, and the data and pretrained weights required to reproduce the reported tables.
+Official implementation of the NeurIPS 2026 paper "Delay-Embedded Representations for Robust Saccade Classification in Noisy Oculographic Signals" by Vladimir Antipov, Artem Badarin, and Alexander Hramov.
+
+This repository contains the implementation of the proposed saccade detector (ACMA), the benchmarking pipeline against nine baseline detectors, and the data and pretrained weights required to reproduce the reported tables.
 
 ## Repository layout
 
